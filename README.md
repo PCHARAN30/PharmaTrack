@@ -65,4 +65,10 @@ cd PharmaTrack
 javac *.java
 java Main
 ```
+## Screenshots
 
+<p align="center">
+<img width="1366" height="768" alt="PharmaTrackLogin" src="https://github.com/user-attachments/assets/abb6fc58-6b63-40fc-a1b4-0d414d400451" />
+<img width="326" height="162" alt="ExpiryAlert" src="https://github.com/user-attachments/assets/a3c34fa1-98ba-4151-9658-e44398e18630" />
+<img width="1366" height="768" alt="PharmaTrackDashboard" src="https://github.com/user-attachments/assets/3f224a1c-bc7f-46fe-98ec-7d23595cc56b" />
+</p>
