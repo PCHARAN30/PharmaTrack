@@ -20,8 +20,7 @@ It’s lightweight, offline-friendly, and perfect for small to medium-sized phar
 - 📦 **Inventory Management** – Add, edit, delete, and search medicines  
 - ⏳ **Expiry Prediction** – Alerts for soon-to-expire medicines  
 - 🔍 **Barcode Scanner (Simulated)** – Instant medicine lookup  
-- 📊 **Dashboard Overview** – Stock levels & expiry stats  
-- 📱 **WhatsApp Reminders** – Free API integration for expiry notifications  
+- 📊 **Dashboard Overview** – Stock levels & expiry stats    
 - 📤 **Export to Excel/CSV** – Backup or share data  
 - 🔐 **Admin Login** – Secure authentication  
 - 🔄 **Offline Mode** – Works without internet  
